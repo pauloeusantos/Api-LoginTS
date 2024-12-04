@@ -19,10 +19,9 @@ Este projeto é uma API de autenticação construída com Node.js e TypeScript. 
 
 ## Scripts
 - `npm start`: Inicia o servidor.
-- `npm test`: Executa os testes (a serem implementados).
+
 
 ## Como Executar
 1. Clone o repositório para sua máquina local.
 2. Instale as dependências com `npm install`.
-3. Configure as variáveis de ambiente necessárias, como `WS_PORT` e a chave secreta para JWT.
-4. Inicie o servidor com `npm start`.
+3. Inicie o servidor com `npm start`.
